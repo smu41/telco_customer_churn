@@ -1,0 +1,15 @@
+[project]
+name = "telco-churn"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyterlab>=4.6.3",
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.2",
+    "pandas>=3.0.5",
+    "plotly>=7.0.0",
+    "scikit-learn>=1.9.0",
+    "scipy-stubs~=1.18.1",
+    "seaborn>=0.13.2",
+    "streamlit>=1.64.0",
+]
